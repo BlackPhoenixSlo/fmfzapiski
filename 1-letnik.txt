@@ -25,7 +25,7 @@
     <div class="nav-wrapper" >
       <a href="#!" class="brand-logo center" id="urnik-logo"> <!-- top centred logo: absolute -->
         <i class="large material-icons hide-on-med-and-down">schedule</i>
-        FMF Zapiski - FIN 2. letnik
+        FMF Zapiski - [FMF-smer]
         
       </a>
 
@@ -83,10 +83,10 @@
   <div class="col s6 m3">
       
       
-    <table id="Analiza 3" class="highlight">
+    <table id="[subject-1]" class="highlight">
       <thead>
       <tr>
-        <th>Analiza 3</th>
+        <th>[subject-1]</th>
       </tr>
       </thead>
       <tbody>
@@ -117,10 +117,10 @@
       
       </tbody>
     </table>
-    <table id="Analiza podatkov s programom R" class="highlight">
+    <table id="[subject-2]" class="highlight">
       <thead>
       <tr>
-        <th>Analiza podatkov s programom R</th>
+        <th>[subject-2]</th>
       </tr>
       </thead>
       <tbody>
@@ -151,10 +151,10 @@
       
       </tbody>
     </table>
-    <table id="Denar in finance" class="highlight">
+    <table id="[subject-3]" class="highlight">
       <thead>
       <tr>
-        <th>Denar in finance</th>
+        <th>[subject-3]</th>
       </tr>
       </thead>
       <tbody>
@@ -185,10 +185,10 @@
       
       </tbody>
     </table>
-    <table id="Finančna matematika 1" class="highlight">
+    <table id="[subject-4]" class="highlight">
       <thead>
       <tr>
-        <th>Finančna matematika 1</th>
+        <th>[subject-4]</th>
       </tr>
       </thead>
       <tbody>
@@ -224,10 +224,10 @@
 <div class="col s6 m3">
       
       
-  <table id="Makroekonomija" class="highlight">
+  <table id="[subject-5]" class="highlight">
     <thead>
     <tr>
-      <th>Makroekonomija</th>
+      <th>[subject-5]</th>
     </tr>
     </thead>
     <tbody>
@@ -258,10 +258,10 @@
     
     </tbody>
   </table>
-  <table id="Numerične metode 1" class="highlight">
+  <table id="[subject-6]" class="highlight">
     <thead>
     <tr>
-      <th>Numerične metode 1</th>
+      <th>[subject-6]</th>
     </tr>
     </thead>
     <tbody>
@@ -292,10 +292,10 @@
     
     </tbody>
   </table>
-  <table id="Numerične metode 2" class="highlight">
+  <table id="[subject-7]" class="highlight">
     <thead>
     <tr>
-      <th>Numerične metode 2</th>
+      <th>[subject-7]</th>
     </tr>
     </thead>
     <tbody>
@@ -326,10 +326,10 @@
     
     </tbody>
   </table>
-  <table id="Operacijske raziskave" class="highlight">
+  <table id="[subject-8]" class="highlight">
     <thead>
     <tr>
-      <th>Operacijske raziskave</th>
+      <th>[subject-8]</th>
     </tr>
     </thead>
     <tbody>
@@ -363,13 +363,13 @@
 
 </div>  <!-- smeri -->
 
-<div id="Seminar" class="col s6 m3">
+<div id="[subject-9]" class="col s6 m3">
       
       
   <table class="highlight">
     <thead>
     <tr>
-      <th>Seminar</th>
+      <th>[subject-9]</th>
     </tr>
     </thead>
     <tbody>
@@ -400,10 +400,10 @@
     
     </tbody>
   </table>
-  <table id="Verjetnost 1" class="highlight">
+  <table id="[subject-10]" class="highlight">
     <thead>
     <tr>
-      <th>Verjetnost 1</th>
+      <th>[subject-10]</th>
     </tr>
     </thead>
     <tbody>
@@ -434,10 +434,10 @@
     
     </tbody>
   </table>
-  <table id="Verjetnost in statistika" class="highlight">
+  <table id="[subject-11]" class="highlight">
     <thead>
     <tr>
-      <th>Verjetnost in statistika</th>
+      <th>[subject-11]</th>
     </tr>
     </thead>
     <tbody>
@@ -468,7 +468,212 @@
     
     </tbody>
   </table>
-   
+  <table id="[subject-12]" class="highlight">
+    <thead>
+    <tr>
+      <th>[subject-12]</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/48/">View-only zapiski</a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/46/">Public-edit-enabled zapiski</a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/34/">Public-edit-enabled Kolokviji/Ustna-vprašašnja</a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/38/">Public-edit-enabled Klepet</a>
+        </td>
+      </tr>
+    
+    </tbody>
+  </table>
+
+  <table id="[subject-13]" class="highlight">
+    <thead>
+    <tr>
+      <th>[subject-13]</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/48/">View-only zapiski</a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/46/">Public-edit-enabled zapiski</a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/34/">Public-edit-enabled Kolokviji/Ustna-vprašašnja</a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/38/">Public-edit-enabled Klepet</a>
+        </td>
+      </tr>
+    
+    </tbody>
+  </table>
+  <table id="[subject-14]" class="highlight">
+    <thead>
+    <tr>
+      <th>[subject-14]</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/48/">View-only zapiski</a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/46/">Public-edit-enabled zapiski</a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/34/">Public-edit-enabled Kolokviji/Ustna-vprašašnja</a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/38/">Public-edit-enabled Klepet</a>
+        </td>
+      </tr>
+    
+    </tbody>
+  </table>
+  <table id="[subject-15]" class="highlight">
+    <thead>
+    <tr>
+      <th>[subject-15]</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/48/">View-only zapiski</a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/46/">Public-edit-enabled zapiski</a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/34/">Public-edit-enabled Kolokviji/Ustna-vprašašnja</a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/38/">Public-edit-enabled Klepet</a>
+        </td>
+      </tr>
+    
+    </tbody>
+  </table>
+
+  <table id="[subject-16]" class="highlight">
+    <thead>
+    <tr>
+      <th>[subject-16]</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/48/">View-only zapiski</a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/46/">Public-edit-enabled zapiski</a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/34/">Public-edit-enabled Kolokviji/Ustna-vprašašnja</a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/38/">Public-edit-enabled Klepet</a>
+        </td>
+      </tr>
+    
+    </tbody>
+  </table>
+<table id="[subject-17]" class="highlight">
+    <thead>
+    <tr>
+      <th>[subject-17]</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/48/">View-only zapiski</a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/46/">Public-edit-enabled zapiski</a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/34/">Public-edit-enabled Kolokviji/Ustna-vprašašnja</a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="padded">
+            <a href="/letnik/38/">Public-edit-enabled Klepet</a>
+        </td>
+      </tr>
+    
+    </tbody>
+  </table>
 
 </div>  <!-- smeri -->
 
