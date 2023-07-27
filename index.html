@@ -14,7 +14,68 @@
  <link rel="icon" href="../pngwing.png">  <link rel="manifest" href="/static/icons/manifest.json">
   <link rel="mask-icon" href="/static/icons/safari-pinned-tab.svg" color="#5bbad5">
   <link rel="shortcut icon" href="/static/icons/favicon.ico">
+  <style>
+    /* Basic styles, targeted for larger screens */
+    .navbar-fixed {
+      height: 80px;
+      background-color: #333;
+    }
 
+    #urnik-logo {
+      height: 60px;
+      margin: 10px;
+    }
+
+    #search-wrapper {
+      width: 500px;
+      margin: auto;
+    }
+
+    .container {
+      width: 80%;
+      margin: auto;
+    }
+
+    .row {
+      display: flex;
+    }
+
+    .col {
+      flex: 1;
+    }
+
+    @media only screen and (max-width: 990px) {
+      /* Styles for screens smaller than 600px */
+
+      .navbar-fixed {
+        height: 60px;
+      }
+
+      #urnik-logo {
+        height: 40px;
+        margin: 10px 5px;
+      }
+
+      #search-wrapper {
+        width: 80%;
+        margin: 10px auto;
+      }
+
+      .container {
+        width: 90%;
+      }
+
+      .row {
+        flex-direction: column;
+        align-items: center;  /* This will align the items in the center */
+      }
+
+      .col {
+        flex: none;
+        width: 100%;
+      }
+    }
+  </style>
 </head>
 
 <body>
@@ -65,14 +126,9 @@
 </ul> <!-- side nav -->
 
 
-<div  style=" display: flex; text-align: center; background-color: beige;">
-    <p>Dodajte zapiske v ta google drive preden jih razporedim na spletno stran. </p>
+<div  style=" display: flex;background-color: beige;">
+    <p style=" margin-left: 33%; ">Pomagajte svojim prijateljim in študentom ki pridejo na fmf za vami (;</p>
     
-    <a href="https://drive.google.com/drive/folders/1OnfqVK_lRdjxQAJIXgGoWIO13k5KCT2n?usp=sharing">ta google drive</a> <br>
-    <br>
-    <br>
-    Zaenkrat kar imam zapiskov so tukaj, navoljo za branje:<br>
-    <a href="https://drive.google.com/drive/folders/1vs63dyxPp9olPurtA1XwvDcF1X6_bi0m?usp=sharing">zapiski za branje</a><br>
     </div>
 
 
