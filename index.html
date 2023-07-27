@@ -47,13 +47,17 @@
     @media only screen and (max-width: 990px) {
       /* Styles for screens smaller than 600px */
 
+      *{
+        font-size: 24px;
+      }
+
       .navbar-fixed {
         height: 60px;
       }
 
       #urnik-logo {
         height: 40px;
-        margin: 10px 5px;
+        margin: 0px 0px;
       }
 
       #search-wrapper {
@@ -63,16 +67,19 @@
 
       .container {
         width: 90%;
+        margin-left: -0vw;
+        
       }
 
       .row {
-        flex-direction: column;
-        align-items: center;  /* This will align the items in the center */
+        flex-direction: row;
+        align-items: center ;  /* This will align the items in the center */
       }
 
       .col {
         flex: none;
-        width: 100%;
+        width: 40vw;
+        font-size: 37px;
       }
     }
   </style>
@@ -127,14 +134,14 @@
 
 
 <div  style=" display: flex;background-color: beige;">
-    <p style=" margin-left: 33%; ">Pomagajte svojim prijateljim in študentom ki pridejo na fmf za vami (;</p>
+    <p style=" margin-left: 10%; ">Pomagajte svojim prijateljim in študentom ki pridejo na fmf za vami (;</p>
     
     </div>
 
 
 <div class="container" >
    
-<div class="row" style=" display: flex; text-align: center; ">
+<div class="row" style=" ">
   
   
     <div class="col s6 m3">
